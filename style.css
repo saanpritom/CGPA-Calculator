@@ -1,0 +1,30 @@
+body
+{
+		background-image: url("images/aust2.gif");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+}
+.header
+{
+		color: white;
+}
+#mainbody
+{
+	background-color:rgba(0, 0, 0, 0.5);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+			StartColorStr='#7F00FF00', EndColorStr='#7F00FF00');
+}
+.mytable
+{
+	border: 0;
+}
+#help a
+{
+	text-decoration: none;
+	color: white;
+}
+.hheader
+{
+	background-color:white;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AUST CGPA Calculator",
+  "description": "CGPA Calculator for Ahsanullah University of Science & Technology",
+  "launch_path": "/index.html",
+  "icons": {
+    "209": "/images/lg1.png"
+  },
+  "developer": {
+    "name": "Pritom Borogoria",
+    "url": "http://explorerbd.com"
+  },
+  "default_locale": "en"
+}
